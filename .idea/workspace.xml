@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c64a9bd-4a6c-41b8-87d7-1969ead4150e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,39 +31,39 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2df52JrNJ6mdLcrbDf8PESKmGAO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.BD_Order.executor": "Run",
-    "JUnit.BD_Order.orderProductTest.executor": "Debug",
-    "JUnit.BD_Signup.executor": "Run",
-    "JUnit.SignUpTest.SignUpTestValid.executor": "Run",
-    "JUnit.SignUpTest.executor": "Run",
-    "JUnit.SignUpTest.signupTest.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.BD_Login (1).executor": "Run",
-    "TestNG.BD_Login (2).executor": "Run",
-    "TestNG.BD_Login.LoginTest.executor": "Run",
-    "TestNG.BD_Login.executor": "Run",
-    "TestNG.BD_Signup (1).executor": "Run",
-    "TestNG.BD_Signup.executor": "Run",
-    "TestNG.BD_Signup.signupTest.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.BD_Order.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BD_Order.orderProductTest.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.BD_Signup.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SignUpTest.SignUpTestValid.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SignUpTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SignUpTest.signupTest.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.BD_Login (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Login (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Login.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Login.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Signup (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Signup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BD_Signup.signupTest.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DemoBlaze" />
